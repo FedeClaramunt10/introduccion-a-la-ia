@@ -1,6 +1,6 @@
-# Introducción a la Inteligencia Artificial
+﻿# Introducción a la Inteligencia Artificial
 
-Trabajos de la materia Introducción a la IA de la Tecnicatura en Análisis de Datos e Inteligencia Artificial: fundamentos, análisis predictivo y primeros contactos con modelos.
+Trabajos de la materia Introducción a la IA de la Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial: fundamentos, análisis predictivo y primeros contactos con modelos.
 
 ## Entregas
 
